@@ -25,7 +25,7 @@ I’m enthusiastic about learning new languages and tools to stay updated and en
 | JavaScript | Node.js     |
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/harika-adhi/) <!-- Your LinkedIn profile -->
+- [LinkedIn](https://www.linkedin.com/feed/) <!-- Your LinkedIn profile -->
 
 ## 🎉 Fun Facts
 - 💡 Fun fact: I enjoy exploring new technologies and frameworks!
