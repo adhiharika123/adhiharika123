@@ -5,7 +5,7 @@
 I'm a passionate developer with experience in various programming languages. Here’s a quick overview of my skills:
 
 - **Languages**: Comfortable with C, C++, Java, Python, SQL.
-- **Frontend**: Proficient in HTML, CSS, JavaScript and have a basic understanding of React.
+- **Frontend**: Experienced with HTML, CSS, JavaScript and have a basic understanding of React.
 - **Backend**: Currently learning Node.js to create scalable and efficient APIs.
 - **Databases**: Familiar with SQL databases (MySQL) and exploring NoSQL databases like MongoDB.
 - **Data Science**: Currently delving into data analysis and visualization with Python (using Pandas and Matplotlib) and starting to learn the fundamentals of machine learning with Scikit-Learn.
